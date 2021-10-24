@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".DompuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".lnActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ipActivity"
+            android:exported="true" />
+        <activity
+            android:name=".fbActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ggActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Favorite1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".AkunAndaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PekerjaanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PermainanTradisionalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".KebudayaanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SosialActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RumahAdatActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MakananActivity"
+            android:exported="true" />
+        <activity android:name=".WisataFavoritActivity" />
+        <activity android:name=".HalamanMenuActivity" />
+        <activity
+            android:name=".NavigatiPentingActivity"
+            android:exported="true"
+            android:label="@string/title_activity_navigati_penting"
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
+        <activity
+            android:name=".DaftarSukseActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DaftarUserActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PasswordBaruActivity"
+            android:exported="true" />
+        <activity
+            android:name=".KodeLupaPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LupaPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity android:name=".BudayaActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".WisataActivity" />
+        <activity android:name=".Details" />
+        <activity
+            android:name=".SplasScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

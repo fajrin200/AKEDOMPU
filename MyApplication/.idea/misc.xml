@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/drawable/ic_favorite.xml" value="0.2462962962962963" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/drawable/ic_wave_bottom.xml" value="0.262037037037037" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/drawable/ic_wave_top.xml" value="0.262037037037037" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/drawable/ic_wave_top1.xml" value="0.14635416666666667" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_akun_anda.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_daftar.xml" value="0.13385416666666666" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_daftar_sukse.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_daftar_user.xml" value="0.264" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_dompu.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_favorite1.xml" value="0.17350157728706625" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_fb.xml" value="0.2453125" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_gg.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_halaman_menu.xml" value="0.264" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_ip.xml" value="0.2453125" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_kebudayaan.xml" value="0.264" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_kode_lupa_password.xml" value="0.13020833333333334" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_ln.xml" value="0.2453125" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_love.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_lupa.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_lupa_password.xml" value="0.264" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_makanan.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_navigati_penting.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_password_baru.xml" value="0.13385416666666666" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_pekerjaan.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_permainan_tradisional.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_rumah_adat.xml" value="0.2" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_sosial.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_splas_screen.xml" value="0.2" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/activity_wisata_favorit.xml" value="0.2453125" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/content_navigati_penting.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.13385416666666666" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/item_list_cardview.xml" value="0.259375" />
+        <entry key="..\:/FAJAR/MyApplication/app/src/main/res/layout/nav_header_navigati_penting.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

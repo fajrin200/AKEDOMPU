@@ -9,7 +9,7 @@
 ## SISTEM LOGIN
 1. SPLASH SCREEN
 
-![Screenshot Passed](img/1.JPG)
+![Screenshot Passed](img/1.jpg)
 
 2. LOGIN
 

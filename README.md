@@ -1,4 +1,4 @@
-# Komputasi Awan
+# UTS MOBILE
 
 |  |  |
 |--|--|
@@ -12,10 +12,21 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3x |
+| NIM | **1941720010** |
+| Nama Lengkap | **M FAJRIN** |
+| Kelas | TI-3I |
 
+|  |  |
+|--|--|
+| NIM | **19417200** |
+| Nama Lengkap | **IBNU** |
+| Kelas | TI-3I |
+
+|  |  |
+|--|--|
+| NIM | **19417200** |
+| Nama Lengkap | **ANDI** |
+| Kelas | TI-3I |
 
 ## Struktur Folder
 
@@ -33,4 +44,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(nama lengkap Anda xyz)***
+***(M FAJRIN)***
